@@ -1,0 +1,21 @@
+*   8bb433d Merge branch 'gguf' into release
+|\  
+| * 355919b Difference saved
+* |   3cb51d2 Merge branch 'feature2'
+|\ \  
+| * | 723a502 feature2 change
+* | |   ee254c5 Merge branch 'feature1'
+|\ \ \  
+| |_|/  
+|/| |   
+| * | d819c5b feature1 change
+| |/  
+* | 2ebd9c8 add: не тест in run.txt
+* | 23b1539 add: тест in run.txt
+|/  
+* 0212336 add run.txt 5
+* 2dbe354 add run.txt 4
+* 034f8cf add run.txt 3
+* c743b9b add run.txt 2
+* 32ffb97 add run.txt 1
+* a3bdd10 init
